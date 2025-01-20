@@ -17,6 +17,12 @@ This repository contains various neural network models and implementations for d
      - Provides accuracy metrics for test data.
      - 
 ### 2. **MLP-Backpropagation**
+   - **Description**:
+     This project demonstrates the implementation of a Multi-Layer Perceptron (MLP) using backpropagation for training. The network supports multiple hidden layers and is capable of learning complex patterns in data.
+   - **Key Features**:
+      - Implements backpropagation for efficient training of MLP networks.
+      - Supports customizable architectures with configurable numbers of hidden layers and neurons.
+      - Includes adjustable parameters like learning rate, activation functions, and epochs for fine-tuning the model.
 
 ### 3. **multi-class-classifier**
    - **Description**:
