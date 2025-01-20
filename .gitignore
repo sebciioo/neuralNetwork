@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Custom ignore files
+ADALINE/data/mnist_train.csv
+ADALINE/data/mnist_test.csv
