@@ -24,7 +24,7 @@ This repository contains various neural network models and implementations for d
       - Supports customizable architectures with configurable numbers of hidden layers and neurons.
       - Includes adjustable parameters like learning rate, activation functions, and epochs for fine-tuning the model.
 
-### 3. **multi-class-classifier**
+### 3. **Multi-class-classifier**
    - **Description**:
      The project demonstrates the use of perceptrons for multi-class classification. Each perceptron is trained to recognize one specific class. Classes can be represented as binary patterns or multi-dimensional feature vectors.
    - **Key Features**:
